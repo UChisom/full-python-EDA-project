@@ -69,7 +69,7 @@ To obtain this relationship, I grouped the durations into Short, Medium, and Lon
 To create the slide deck from jupyter notebook, use the following code and ensure you have the `output-toggle.tpl` file in thesame directory as notebook file. 
 
 Also make sure to have assigned a slide type to each sell you want to present such as **slide, sub-slide, fragment, notes** ,.etc. To do this follow: 
-- Click `vVew` in the jupyter notebook toolbar 
+- Click `View` in the jupyter notebook toolbar 
 - Then `Cell Toolbar`
 - Next `Slideshow`
 - Assign the slide show type to each cell in your notebook and run the code below:
