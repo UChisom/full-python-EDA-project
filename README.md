@@ -63,3 +63,17 @@ To obtain this relationship, I grouped the durations into Short, Medium, and Lon
 - Weekend had a sudden decline in usage by subscribers and the peak hour became around the 14th hour of the day.
 - Customer type users took more long duration trips than Subscribers. Even during the weekends, more customers took even more medium and long duration trips.
 - Subscribers took more short and medium duration trips than long durations and mostly during weekdays.
+
+## Additional Information:
+
+To create the slide deck from jupyter notebook, use the following code and ensure you have the `output-toggle.tpl` file in thesame directory as notebook file. 
+
+Also make sure to have assigned a slide type to each sell you want to present such as **slide, sub-slide, fragment, notes** ,.etc. To do this follow: 
+- Click `vVew` in the jupyter notebook toolbar 
+- Then `Cell Toolbar`
+- Next `Slideshow`
+- Assign the slide show type to each cell in your notebook and run the code below:
+
+`jupyter nbconvert eda_ford_gobike_system.ipynb --to slides --template output-toggle.tpl
+--post serve`
+> Run the code in your terminal, command prompt or anaconda prompt.
