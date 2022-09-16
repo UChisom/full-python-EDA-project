@@ -50,7 +50,7 @@ To obtain this relationship, I grouped the durations into Short, Medium, and Lon
 
 ---
 
-## Visualization Walkthrough
+## Visualization Walkthrough For Slide Deck
 
 > My focus for the visualization will be to illustrate the effect of user type on the rate of bike use. Other variables to be featured in the explanatory slide include the time of day, day of the week, and duration of use. I start by introducing the user type and distribution of the usage duration.
 
@@ -72,3 +72,13 @@ Also, assign a slide type to each cell you want to present such as **slide, sub-
 > Run the code in your terminal, command prompt, or anaconda prompt.
 
 
+## Dashboards
+The dashboards below were created using Tableau and are included as files in this repo. 
+
+### Dashboard 1
+![image1](https://github.com/UChisom/Ford-Gobike-sharing-system-EDA/blob/master/Dashboard%201.png?raw=true)
+
+### Dashboard 2
+![image2](https://github.com/UChisom/Ford-Gobike-sharing-system-EDA/blob/master/Dashboard%202.png?raw=true)
+
+Visit my [Tableau](https://public.tableau.com/app/profile/chisom.urom) page to see other visualizations
