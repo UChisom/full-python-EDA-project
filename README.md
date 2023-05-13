@@ -1,5 +1,7 @@
 # Ford GoBike System Data Exploration
 Wrangling and Exploration to determine features affecting user behavior and patterns in the San Francisco Ford GoBike share service.
+
+See Dashboards [Here](https://github.com/UChisom/Ford-Gobike-sharing-system-EDA#dashboards)
 ## Dataset
 The dataset consisted of 183412 individual bike rides made in a bike-sharing system covering the greater San Francisco Bay area. There were 16 variables, including latitude and longitude positions for start and end stations.
 Following my wrangling process, I retained rows in the dataset, useful for my analysis and dropped some extraneous columns. For tidiness, I separated the dataset into two tables, one containing information on the user, and the other on the trip.
