@@ -6,7 +6,6 @@ This project demonstrates mastery of the data analytics project. **Original**, *
 
 Data Wrangling and Exploration to determine features affecting **user behavior** and **usage patterns** of bikes in the San Francisco bay area.
 
-See Dashboards [Here](https://github.com/UChisom/Ford-Gobike-sharing-system-EDA#dashboards)
 
 ## Data Visualizations 
 
