@@ -1,6 +1,8 @@
 # Ford GoBike System Data Exploration
 
-This project demonstrates mastery of the data analytics project. **Original**, **Expert reviewed**, and **comprehensive guide** for beginners 🎊🎊
+This project demonstrates mastery of the data analytics cycle. **Data Gathering**, **Wrangling**, **EDA**, **Explanatory Data Analysis**, **Communicating Insights** ⭐⭐⭐⭐
+
+All code is **Original**, **Expert reviewed**, and a **Comprehensive guide** for beginners 🎊🎊
 
 ## Goal 
 
